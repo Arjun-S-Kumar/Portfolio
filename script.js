@@ -56,7 +56,7 @@ $(document).ready(function () {
     }
   );
   ScrollReveal().reveal(
-    ".header ul, .profile-text, .about-skills, .internship",
+    ".header ul, .profile-text, .about-skills, .cert",
     {
       origin: "right",
     }
