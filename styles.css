@@ -481,10 +481,13 @@ body {
   }
 
   .profile-text {
-    width: 350px;
+    width: 250px;
   }
   .FirstElement .profile-text p {
     text-align: justify;
+  }
+  .FirstElement .profile-text .h5{
+    font-size: 50%;
   }
   .about {
     flex-direction: column;
